@@ -1,0 +1,8 @@
+{
+    "PRODUCTION_MODE" : 1,
+    "API_URL":"https://thirdroc.ai:8888/",
+    "DOMAIN":"https://thirdroc.ai",
+    "s3_url" : "https://thirdroc1.s3.ap-southeast-2.amazonaws.com/",
+    "DEV_API_URL":"https://stagingapi.finitt.com:8001/api/",
+    "DEV_DOMAIN":"https://thirdroc.ai"
+} 

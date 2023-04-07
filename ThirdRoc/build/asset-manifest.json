@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/thirdroc/static/css/main.4b0ed051.css",
+    "main.js": "/thirdroc/static/js/main.92cf4ae6.js",
+    "static/js/651.11af41c0.chunk.js": "/thirdroc/static/js/651.11af41c0.chunk.js",
+    "index.html": "/thirdroc/index.html",
+    "main.4b0ed051.css.map": "/thirdroc/static/css/main.4b0ed051.css.map",
+    "main.92cf4ae6.js.map": "/thirdroc/static/js/main.92cf4ae6.js.map",
+    "651.11af41c0.chunk.js.map": "/thirdroc/static/js/651.11af41c0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4b0ed051.css",
+    "static/js/main.92cf4ae6.js"
+  ]
+}
